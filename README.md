@@ -1,10 +1,22 @@
-## My Projects
+# Portfolio | Fajar Sidik
+
+A collection of academic, business, marketing, and data analytics projects.
+
+## Contents
+
+- [Brand & Marketing](#brand--marketing)
+- [Data Analytics](#data-analytics)
+- [Academic Research](#academic-research)
+
+---
+
+## Brand & Marketing
 
 ### 01. Scentplus | Brand & Marketing Strategy (2024)
 
 A brand strategy and marketing campaign planning project for a local perfume brand.
 
-**Project Scope:**
+**Project Scope**
 - Target Audience Analysis
 - Audience Positioning
 - Consumer Insight
@@ -13,13 +25,25 @@ A brand strategy and marketing campaign planning project for a local perfume bra
 - Marketing Campaign Touchpoints
 - TOFU & MOFU Strategy
 
-**Project Documents:**
+**Project Documents**
 - [View Brand & Creative Strategy (PDF)](https://github.com/fajarsidik05/portfolio/blob/main/Brand%20%26%20Creative%20Strategy%20for%20Scentplus.pdf)
 - [View Brand Campaign Touchpoints (PDF)](https://github.com/fajarsidik05/portfolio/blob/main/Brand%20Campaign%20Touchpoints.pdf)
 
-- ### 02. The Originote | Integrated Marketing Plan
+### 02. The Originote | Integrated Marketing Plan
 
 An integrated marketing planning project for The Originote.
 
-**Project Document:**
+**Project Document**
 - [View Integrated Marketing Plan (PDF)](https://github.com/fajarsidik05/portfolio/blob/main/Integrated%20Marketing%20Plan%20%20The%20Originote.pdf)
+
+---
+
+## Data Analytics
+
+Data analytics projects are currently in development and will be added here as they are completed and documented.
+
+---
+
+## Academic Research
+
+Academic research documents will be added here when they are prepared for publication.
