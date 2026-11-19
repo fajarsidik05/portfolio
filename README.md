@@ -14,8 +14,8 @@ A brand strategy and marketing campaign planning project for a local perfume bra
 - TOFU & MOFU Strategy
 
 **Project Documents:**
-- [Brand & Creative Strategy (PDF)](Scentplus_Brand_Creative_Strategy_2024.pdf)
-- [Brand Campaign Touchpoints (PDF)](Scentplus_Brand_Campaign_Touchpoints_2024.pdf)
+- [View Brand & Creative Strategy (PDF)](https://github.com/fajarsidik05/portfolio/blob/main/Brand%20%26%20Creative%20Strategy%20for%20Scentplus.pdf)
+- [View Brand Campaign Touchpoints (PDF)](https://github.com/fajarsidik05/portfolio/blob/main/Brand%20Campaign%20Touchpoints.pdf)
 
 - ### 02. The Originote | Integrated Marketing Plan
 
