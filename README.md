@@ -75,4 +75,4 @@ This study examines the influence of Financial Literacy on Investment Intention 
 - Structural Equation Modeling (SEM)
 - Research Interpretation
 
-**Research Summary PDF:** The concise PDF summary is prepared and will be linked here after the file is uploaded to this repository.
+**Research Summary PDF:** [View Academic Research Summary (PDF)](https://github.com/fajarsidik05/portfolio/blob/main/Academic_Research_Summary_Fajar_Sidik.pdf)
