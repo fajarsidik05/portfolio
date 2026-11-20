@@ -46,4 +46,33 @@ Data analytics projects are currently in development and will be added here as t
 
 ## Academic Research
 
-Academic research documents will be added here when they are prepared for publication.
+### The Influence of Financial Literacy on Investment Intention Through Perceived Risk
+**Undergraduate Thesis | Universitas Pendidikan Indonesia | 2026**
+
+**Research Overview**
+
+This study examines the influence of Financial Literacy on Investment Intention through Perceived Risk as a mediating variable among Generation Z in West Java, Indonesia.
+
+**Research Methodology**
+- Research Approach: Quantitative
+- Research Design: Descriptive and Verificative
+- Sample: 205 Generation Z respondents in West Java
+- Sampling Technique: Purposive Sampling
+- Data Analysis: Structural Equation Modeling (SEM)
+- Software: IBM SPSS AMOS
+
+**Key Findings**
+- Financial Literacy has a positive and significant effect on Investment Intention.
+- Financial Literacy has a negative and significant effect on Perceived Risk.
+- Perceived Risk has a negative and significant effect on Investment Intention.
+- Perceived Risk partially mediates the relationship between Financial Literacy and Investment Intention.
+
+**Research Skills**
+- Quantitative Research
+- Questionnaire Design
+- Data Collection
+- Statistical Analysis
+- Structural Equation Modeling (SEM)
+- Research Interpretation
+
+**Research Summary PDF:** The concise PDF summary is prepared and will be linked here after the file is uploaded to this repository.
