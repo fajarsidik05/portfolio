@@ -1,11 +1,12 @@
 # Portfolio | Fajar Sidik
 
-A collection of academic, business, marketing, and data analytics projects.
+A collection of academic, business, marketing, data analytics, and AI-powered content creation projects.
 
 ## Contents
 
 - [Brand & Marketing](#brand--marketing)
 - [Data Analytics](#data-analytics)
+- [Financial Education & AI Content Creation](#financial-education--ai-content-creation)
 - [Academic Research](#academic-research)
 
 ---
@@ -41,6 +42,39 @@ An integrated marketing planning project for The Originote.
 ## Data Analytics
 
 Data analytics projects are currently in development and will be added here as they are completed and documented.
+
+---
+
+## Financial Education & AI Content Creation
+
+### 03. DUITVERSE | AI-Powered Financial Education Content Creation
+
+An independent financial education content project that uses AI tools to research, develop, and produce educational short-form videos about finance, investment, business, and economics for young audiences.
+
+**Production Workflow & Tools**
+- **Research & Trend Analysis:** Scrap Creator
+- **Content Development & Video Creation:** Claude AI
+- **AI-Generated Visuals & Animation:** Claude AI
+- **AI Voice Generation:** ElevenLabs
+- **Content Distribution:** TikTok and Instagram Reels
+
+**Key Responsibilities**
+- Conducting financial content research and trend analysis.
+- Developing educational topics and video scripts.
+- Producing AI-generated visuals, animations, and videos.
+- Generating voiceovers using AI voice technology.
+- Creating short-form financial education content for young audiences.
+
+**Content Focus**
+- Personal Finance
+- Investment Education
+- Business & Economics
+- Financial Literacy
+
+**Content Examples**
+- The History of Money: From Barter to Digital Currency
+- How to Manage Money with a Salary of IDR 5 Million
+- Things to Consider Before Investing
 
 ---
 
