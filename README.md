@@ -72,7 +72,7 @@ An independent financial education content project that uses AI tools to researc
 - Financial Literacy
 
 **Content Examples**
-- The History of Money: From Barter to Digital Currency
+- [The History of Money: From Barter to Digital Currency (Watch on TikTok)](https://vt.tiktok.com/ZSpK3R3Mq/)
 - How to Manage Money with a Salary of IDR 5 Million
 - Things to Consider Before Investing
 
