@@ -41,7 +41,31 @@ An integrated marketing planning project for The Originote.
 
 ## Data Analytics
 
-Data analytics projects are currently in development and will be added here as they are completed and documented.
+### 04. Export Data Visualization & Trend Analysis (2016–2022)
+
+An Excel-based analysis of West Java export data, covering product-category rankings, top-10 contribution, annual trends, and drivers of year-over-year changes.
+
+**Project Scope**
+- Summarized and ranked export value across product categories.
+- Identified the 10 largest export categories and visualized them with a horizontal bar chart.
+- Calculated category contribution to total export value.
+- Analyzed the annual export trend for Paper, including YoY growth and CAGR.
+- Reviewed annual export movements and the largest category-level increases and decreases.
+- Documented data limitations, including the absence of profit and cost fields.
+
+**Selected Findings**
+- Total export value for 2016–2022: approximately USD 214.27 billion.
+- Top 10 categories contributed approximately 70.2% of total export value.
+- Vehicles Other Than Trains and Electrical Equipments contributed approximately 28.5% combined.
+- Paper exports recorded approximately 5.94% CAGR from 2016 to 2022.
+
+**Tools & Techniques**
+- Microsoft Excel
+- SUMIFS, LARGE, INDEX/MATCH
+- Year-over-year growth, CAGR, correlation analysis
+- Summary tables, horizontal bar chart, and line charts
+
+**Case Study:** [Read the full analysis and findings](Data_Visualization_Case_Study.md)
 
 ---
 
