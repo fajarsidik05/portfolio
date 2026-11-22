@@ -65,7 +65,10 @@ An Excel-based analysis of West Java export data, covering product-category rank
 - Year-over-year growth, CAGR, correlation analysis
 - Summary tables, horizontal bar chart, and line charts
 
-**Case Study:** [Read the full analysis and findings](Data_Visualization_Case_Study.md)
+**Project Files**
+- [Read the full case study](Data_Visualization_Case_Study.md)
+- [View Excel workbook](Data_Analytics/Case_Study_Data_Visualization_Best_Practices.xlsx)
+- [Download Excel workbook](https://raw.githubusercontent.com/fajarsidik05/portfolio/main/Data_Analytics/Case_Study_Data_Visualization_Best_Practices.xlsx)
 
 ---
 
