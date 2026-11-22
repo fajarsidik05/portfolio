@@ -46,4 +46,7 @@ This case study analyzes export values by product category and year. The workboo
 
 ## Project Files
 
-The Excel workbook contains the raw data, calculation sheets, summary tables, and charts. The workbook file will be added to this repository as a separate attachment.
+The Excel workbook contains the raw data, calculation sheets, summary tables, and charts.
+
+- [View Excel workbook on GitHub](https://github.com/fajarsidik05/portfolio/blob/main/Data_Analytics/Case_Study_Data_Visualization_Best_Practices.xlsx)
+- [Download the Excel workbook](https://raw.githubusercontent.com/fajarsidik05/portfolio/main/Data_Analytics/Case_Study_Data_Visualization_Best_Practices.xlsx)
